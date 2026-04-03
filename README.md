@@ -88,7 +88,7 @@ Qwen3.6-Plus achieves SOTA results across 80+ benchmarks, excelling in both text
 
 | 🤖 3D Spatial Perception & Navigation | 🧠 Multimodal Reasoning & Math |
 | :---: | :---: |
-| <a href="视频1链接地址"><img src="视频1截图地址" width="400" alt="Watch Demo 1"></a> | <a href="视频2链接地址"><img src="视频2截图地址" width="400" alt="Watch Demo 2"></a> |
+| <a href="https://github.com/chuwugongzi/Awesome-Qwen3.6/raw/refs/heads/main/assets/demo-video1.mp4.mp4"><img src="https://github.com/chuwugongzi/Awesome-Qwen3.6/blob/main/assets/demo-screenshot1.png?raw=true" width="400" alt="Watch Demo 1"></a> | <a href="https://github.com/chuwugongzi/Awesome-Qwen3.6/raw/refs/heads/main/assets/demo-video2.mp4.mp4"><img src="https://github.com/chuwugongzi/Awesome-Qwen3.6/blob/main/assets/demo-screenshot2.png?raw=true" width="400" alt="Watch Demo 2"></a> |
 | *🎬 Click to Watch: 3D Spatial Perception & Dynamic Navigation* | *🎬 Click to Watch: Complex Multimodal Reasoning & Mathematical Analysis* |
 
 ---
