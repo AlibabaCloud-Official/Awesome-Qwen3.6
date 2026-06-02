@@ -1,4 +1,4 @@
-# Awesome-Qwen3.6
+# Awesome-Qwen3.6-Plus
 A collection of demos and resources for Alibaba Cloud Qwen3.6-Plus.
 # 🚀 Qwen3.6-Plus: Towards Real-World AI Agents
 
@@ -93,12 +93,5 @@ Qwen3.6-Plus achieves SOTA results across 80+ benchmarks, excelling in both text
 
 ---
 
-## 🎁 Global Campaign & Exclusive Offers
-
-1.  **Free API Credits:** Get **1,000 free calls daily** by using the [Qwen Code](https://github.com) terminal agent.
-2.  **Model Studio Bonus:** New users on Alibaba Cloud Model Studio get exclusive indexing and training credits. [Claim Here](https://alibabacloud.com).
-3.  **#Qwen36 Challenge:** Post your Qwen3.6 projects on X/Twitter with #Qwen36 to win Alibaba Cloud coupons!
-
----
 
 © 2026 Alibaba Cloud.
